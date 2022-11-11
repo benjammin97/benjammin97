@@ -9,6 +9,8 @@ These repositories contain a collection of data science project I completed for 
 
 ## Contents
 ### Machine Learning
+#### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification)
+The objective of the Policyholder Identification project was to categorize current auto-insurance customers into groups based on risk based on number of claims, cost of claims, credit score, location, and several other factors.
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
