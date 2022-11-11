@@ -10,14 +10,14 @@ These repositories contain a collection of data science project I completed for 
 ## Contents
 ### Machine Learning
 #### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
-The objective of the Policyholder Identification project was to categorize current auto-insurance customers into groups based on risk based on number of claims, cost of claims, credit score, location, and several other factors.
+The objective of the Policyholder Identification project was to categorize current auto-insurance customers into groups based on risk based on number of claims, cost of claims, credit score, location, and several other factors. Profits increased by 30% by implementing different rates for different risk levels.
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
 The company wants to engage future customers to increase our client base. Historically, the Sales
 & Marketing Team mails promotional flyers and call potential customers directly. However, the company would
 like to save money on material costs and instead wants to predict customers which customers to target. In
 particular, the marketing team has acquired data about potential customers and wants to predict the number of
-claims per customer and the claims cost per customer. Company saved an average of $200 per customer by only choosing customers who are predicted to have 0 or 1 claim
+claims per customer and the claims cost per customer. Company saved an average of $200 per customer by only choosing customers who are predicted to have 0 or 1 claim.
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
