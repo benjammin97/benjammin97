@@ -17,8 +17,9 @@ The company wants to engage future customers to increase our client base. Histor
 & Marketing Team mails promotional flyers and call potential customers directly. However, the company would
 like to save money on material costs and instead wants to predict customers which customers to target. In
 particular, the marketing team has acquired data about potential customers and wants to predict the number of
-claims per customer and the claims cost per customer.
+claims per customer and the claims cost per customer. Company saved an average of $200 per customer by only choosing customers who are predicted to have 0 or 1 claim
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
-Various visualizations were developed used to identify trends in  bicycle customer base in order to try to convert more riders to members. Identified several potential new membership types to increase overall membership(weekend membership, rush hour membership, hour or less membership).
+Various visualizations were developed used to identify trends in  bicycle customer base in order to try to convert more riders to members. Several recommendations were made to increase rider membership based on the data,
+such as a weekend membership, a one hour membership, and a 3PM-6PM membership.
