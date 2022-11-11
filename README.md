@@ -11,5 +11,5 @@ These repositories contain a collection of data science project I completed for 
 ### Machine Learning
 
 ### Data Analysis and Visualization
-#### Cyclistic Bike Share (https://github.com/benjammin97/CyclisticBikeShare)
+#### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
 Various visualizations were developed used to identify trends in  bicycle customer base in order to try to convert more riders to members. Identified several potential new membership types to increase overall membership(weekend membership, rush hour membership, hour or less membership).
