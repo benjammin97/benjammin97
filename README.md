@@ -5,7 +5,7 @@
 - 📫 How to reach me ... bjcbencox97@gmail.com
 
 # Data Science Portfolio
-These repositories contain a collection of data science project I completed for academic, certification, or self learning purposes. These projects are in the forms of R Scripts, JupyterNotebooks, and Python files. 
+These repositories contain a collection of data science projects I completed for academic, certification, or self learning purposes. These projects are in the forms of R Scripts, JupyterNotebooks, and Python files. 
 
 ## Contents
 ### Machine Learning
