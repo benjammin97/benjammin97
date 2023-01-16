@@ -10,7 +10,10 @@ These repositories contain a collection of data science projects I completed for
 ## Contents
 ### Machine Learning
 #### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
-The objective of the Policyholder Identification project was to categorize current auto-insurance customers into groups based on risk based on number of claims, cost of claims, credit score, location, and several other factors. Data was scaled and preprocessed before machine learning model implementation. Different clustering methods and several parameters were tested to find the optimal solution. Profits increased by 30% by implementing different rates for different risk levels.
+Python code that categorizes auto-insurance customers into groups based on risk level.
+##### Skills Used:
+###### Python
+Data was scaled and preprocessed before machine learning model implementation. Different clustering methods and several parameters were tested to find the optimal solution. Profits increased by 30% by implementing different rates for different risk levels.
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
 The company wants to engage future customers to increase our client base. The company would
