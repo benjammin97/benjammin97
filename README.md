@@ -32,5 +32,5 @@ claims per customer and the claims cost per customer. Decision tree and kmeans m
 Various visualizations were developed used to identify trends in  bicycle customer base in order to try to convert more riders to members. Several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.
 
 ### Modeling and Simulation
-#### [Retirement Preparation Simulation]
+#### [Retirement Preparation Simulation](https://github.com/benjammin97/RetirementSimulation/blob/main/README.md)
 Modeled a retirement contribution plan from age 25 to 65 with no previous contributions to determine the amount needed to invest to have 1.5 million dollars by retirement age before taxes using the most realistic assumptions possible. Several potential plans emerged that satisfied the 1.5 million dollar requirement.
