@@ -22,7 +22,6 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
 ##### Project Summary
-Jupyter notebook that 
 The company wants to engage future customers to increase our client base. The company would
 like to save money on material costs and instead wants to predict customers which customers to target. In
 particular, the marketing team has acquired data about potential customers and wants to predict the number of
