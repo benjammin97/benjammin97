@@ -15,7 +15,7 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 ###### Python
 * Data preprocessing to ensure data quality.
 * Implementing multiple unsupervised machine learning models to search for data insights. 
-* Iterated through several different clustering methods and several parameters to find the optimal solution. 
+* Iterated through several different clustering methods and parameters to find the optimal solution. 
 ##### Outcomes:
 * Profits increased by 30% by implementing different rates for different risk levels.
 
