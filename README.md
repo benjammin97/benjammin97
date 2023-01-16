@@ -13,7 +13,11 @@ These repositories contain a collection of data science projects I completed for
 Python code that categorizes auto-insurance customers into groups based on risk level.
 ##### Skills Used:
 ###### Python
-Data was scaled and preprocessed before machine learning model implementation. Different clustering methods and several parameters were tested to find the optimal solution. Profits increased by 30% by implementing different rates for different risk levels.
+*Data preprocessing to ensure data quality.
+*Implementing multiple unsupervised machine learning models to search for data insights. 
+*Iterated through several different clustering methods and several parameters to find the optimal solution. 
+##### Outcomes:
+*Profits increased by 30% by implementing different rates for different risk levels.
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
 The company wants to engage future customers to increase our client base. The company would
