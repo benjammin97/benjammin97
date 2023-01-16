@@ -10,6 +10,7 @@ These repositories contain a collection of data science projects I completed for
 ## Contents
 ### Machine Learning
 #### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
+##### Project Summary
 Python code that categorizes auto-insurance customers into groups based on risk level.
 ##### Skills Used:
 ###### Python
@@ -20,6 +21,8 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 * Profits increased by 30% by implementing different rates for different risk levels.
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
+##### Project Summary
+Jupyter notebook that 
 The company wants to engage future customers to increase our client base. The company would
 like to save money on material costs and instead wants to predict customers which customers to target. In
 particular, the marketing team has acquired data about potential customers and wants to predict the number of
