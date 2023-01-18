@@ -21,11 +21,11 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 * Profits increased by 30% by implementing different rates for different risk levels.
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
-##### Project Summary
-The company wants to engage future customers to increase our client base. The company would
-like to save money on material costs and instead wants to predict customers which customers to target. In
-particular, the marketing team has acquired data about potential customers and wants to predict the number of
-claims per customer and the claims cost per customer. Decision tree and kmeans methods were implemented as well as several parameters concurrently tested to determine the optimal solution. Company saved an average of $200 per customer by only choosing customers who are predicted to have 0 or 1 claim.
+##### Project Summary:
+The company has asked the data analyst to determine which customers to take on from a new customer list. The company has given the analyst some historical data that he can use to make inferences on the new dataset. 
+##### Desired Insights:
+* Based on demographic data, how many accidents will the new customer have, and what will the costs be?
+* Which customers should the company take on based on number of accidents/costs?
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
