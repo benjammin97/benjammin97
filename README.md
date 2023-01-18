@@ -59,4 +59,5 @@ The data analyst, in excel, is to model a retirement contribution plan from age 
 * Use well-known distributions to develop a realistic model of retirement growth.
 * Use the Data Table function in Excel to extract a large number of simulations simultaneously.
 * Develop summary statistics to gain a full picture of which investment strategies will be successful.
-  Several potential plans emerged that satisfied the 1.5 million dollar requirement.
+##### Outcomes:
+For full results, click [here] Several potential plans emerged that satisfied the 1.5 million dollar requirement.
