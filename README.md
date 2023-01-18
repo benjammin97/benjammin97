@@ -11,7 +11,7 @@ These repositories contain a collection of data science projects I completed for
 ### Machine Learning
 #### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
 ##### Project Summary
-Python code that categorizes auto-insurance customers into groups based on risk level.
+The data analyst is to use data and python code to categorize auto-insurance customers into groups based on risk level.
 ##### Desired Insights:
 * How many groups should the data analyst categorize policyholders into?
 * How can the data analyst use key metrics to determine the best model/hyperparameter combination?
@@ -36,8 +36,27 @@ The company has asked the data analyst to determine which customers to take on f
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
-Various visualizations were developed used to identify trends in  bicycle customer base in order to try to convert more riders to members. Several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.
+##### Project Summary:
+The data analyst is to develop various visualizations to identify trends in bicycle customer base in order to convert more riders to members.
+##### Desired Insights:
+* What is the most popular time of day to ride for bike users?
+* Do members ride at different times/for different durations than casual riders?
+* How long is the average bike ride?
+##### Skills:
+###### R
+* Clean data by removing unnecessary columns and rows.
+* Develop bar graphs and line graphs to generate valuable insights.
+##### Outcomes:
+Based on insights gained by data visualizations, several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.
 
 ### Modeling and Simulation
 #### [Retirement Preparation Simulation](https://github.com/benjammin97/RetirementSimulation/blob/main/README.md)
-Modeled a retirement contribution plan from age 25 to 65 with no previous contributions to determine the amount needed to invest to have 1.5 million dollars by retirement age before taxes using the most realistic assumptions possible. Several potential plans emerged that satisfied the 1.5 million dollar requirement.
+##### Project Summary: 
+The data analyst, in excel, is to model a retirement contribution plan from age 25 to 65 with no previous contributions to determine the amount needed to invest to have 1.5 million dollars by retirement age before taxes using the most realistic assumptions possible. 
+##### Skills:
+###### Excel
+* Use stochastic processes to introduce the randomness of a real-world scenario.
+* Use well-known distributions to develop a realistic model of retirement growth.
+* Use the Data Table function in Excel to extract a large number of simulations simultaneously.
+* Develop summary statistics to gain a full picture of which investment strategies will be successful.
+Several potential plans emerged that satisfied the 1.5 million dollar requirement.
