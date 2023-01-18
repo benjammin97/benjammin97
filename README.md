@@ -12,6 +12,9 @@ These repositories contain a collection of data science projects I completed for
 #### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
 ##### Project Summary
 Python code that categorizes auto-insurance customers into groups based on risk level.
+##### Desired Insights:
+* How many groups should the data analyst categorize policyholders into?
+* How can the data analyst use key metrics to determine the best model/hyperparameter combination?
 ##### Skills:
 ###### Python
 * Data preprocessing to ensure data quality.
