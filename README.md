@@ -16,9 +16,8 @@ Python code that categorizes auto-insurance customers into groups based on risk 
 ###### Python:
 * Data preprocessing to ensure data quality.
 * Implementing two unsupervised machine learning models to search for data insights. 
-* Iterated through two different clustering models and several parameters to find the optimal solution. 
-##### Outcomes:
-* Profits increased by 30% by implementing different rates for different risk levels.
+* Performing exploratory analysis by iterating through two different clustering models and tuning hyperparameters to find the optimal solution. 
+
 
 #### [Potential Customer Prediction](https://github.com/benjammin97/PotentialCustomerPrediction#readme)
 ##### Project Summary:
@@ -30,7 +29,7 @@ The company has asked the data analyst to determine which customers to take on f
 ###### Python:
 * Data population to reduce the number of rows lost in the dataset in both training and test dataset.
 * Use of 75/25 train-test split to evaluate the performance of the supervised machine learning model.
-* 
+* Tuning parameters and tuning hyperparameters during exploratory analysis to find the optimal model, paramater, and hyperparamater combination.
 
 ### Data Analysis and Visualization
 #### [Cyclistic Bike Share](https://github.com/benjammin97/CyclisticBikeShare)
