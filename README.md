@@ -31,6 +31,7 @@ The company has asked the data analyst to determine which customers to take on f
 #### Skills:
 ##### Python
 * Data population to reduce the number of rows lost in the dataset in both training and test dataset.
+* Data binning/hot-encoding to extract relevant categories from the data.
 * Use of 75/25 train-test split to evaluate the performance of the supervised machine learning model.
 * Tuning parameters and tuning hyperparameters during exploratory analysis to find the optimal model, paramater, and hyperparamater combination.
 
