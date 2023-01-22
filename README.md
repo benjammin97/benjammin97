@@ -9,6 +9,7 @@ These repositories contain a collection of data science projects I completed for
 
 
 ## Machine Learning
+For these projects, I recommend viewing the results and presentation section of both projects to get an in-depth explanation of the outcomes of the projects.
 ### [Policyholder Identification](https://github.com/benjammin97/PolicyholderIdentification#readme)
 #### Project Summary
 The data analyst is to use data and python code to categorize auto-insurance customers into groups based on risk level.
